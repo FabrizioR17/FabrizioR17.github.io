@@ -74,6 +74,7 @@ body
 .hidden-message {
     display: none;
     margin-top: 20px;
+    color: black;
 }
 
 .move {
